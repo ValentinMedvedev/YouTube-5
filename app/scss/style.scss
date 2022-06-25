@@ -1,0 +1,33 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    &__list{
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        max-height: 12px;
+        font: 1em sans-serif;
+        font-size: 12px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+.test{
+    // display: grid;
+    justify-content: space-between;
+    align-items: center;
+}
+.block{
+    margin: 15px;
+    padding: 15px;
+    background-color: green;
+}
+.block2{
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(114, 41, 114);
+}
+
+body{
+    display: none;
+}

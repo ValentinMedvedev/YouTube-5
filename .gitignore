@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.idea/*
+/vscode
+*.sumlime*
+npm-debug.*
+
+dist/
+node_modules/
+app/css/*
+package-lock.json
+.update_gulp_node_npm.txt
+.readme.txt
+.Нюансы Прокопчук 2021.txt
+.работа с git.txt
